@@ -1,38 +1,38 @@
 <annotation>
-	<folder>images</folder>
-	<filename>16.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\16.jpg</path>
+	<folder>JPEGImages</folder>
+	<filename>16.png</filename>
+	<path>D:\windows_v1.8.0\windows_v1.8.0\data\VOC2007\JPEGImages\16.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
-		<depth>3</depth>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>No-loss</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>145</xmin>
-			<ymin>198</ymin>
-			<xmax>259</xmax>
-			<ymax>377</ymax>
+			<xmin>43</xmin>
+			<ymin>383</ymin>
+			<xmax>1620</xmax>
+			<ymax>583</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>No-loss</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>490</xmin>
-			<ymin>215</ymin>
-			<xmax>611</xmax>
-			<ymax>361</ymax>
+			<xmin>40</xmin>
+			<ymin>616</ymin>
+			<xmax>1626</xmax>
+			<ymax>956</ymax>
 		</bndbox>
 	</object>
 </annotation>

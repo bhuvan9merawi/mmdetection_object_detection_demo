@@ -1,14 +1,14 @@
 <annotation>
 	<folder>JPEGImages</folder>
-	<filename>7.png</filename>
-	<path>D:\windows_v1.8.0\windows_v1.8.0\data\VOC2007\JPEGImages\7.png</path>
+	<filename>19.png</filename>
+	<path>D:\windows_v1.8.0\windows_v1.8.0\data\VOC2007\JPEGImages\19.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2800</width>
-		<height>1700</height>
-		<depth>1</depth>
+		<width>4673</width>
+		<height>3305</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>93</xmin>
-			<ymin>225</ymin>
-			<xmax>2708</xmax>
-			<ymax>443</ymax>
+			<xmin>171</xmin>
+			<ymin>452</ymin>
+			<xmax>4531</xmax>
+			<ymax>1127</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>87</xmin>
-			<ymin>443</ymin>
-			<xmax>2711</xmax>
-			<ymax>628</ymax>
+			<xmin>151</xmin>
+			<ymin>1237</ymin>
+			<xmax>4546</xmax>
+			<ymax>1872</ymax>
 		</bndbox>
 	</object>
 </annotation>

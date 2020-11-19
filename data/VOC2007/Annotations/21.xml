@@ -1,7 +1,7 @@
 <annotation>
 	<folder>JPEGImages</folder>
-	<filename>2.png</filename>
-	<path>D:\windows_v1.8.0\windows_v1.8.0\data\VOC2007\JPEGImages\2.png</path>
+	<filename>21.png</filename>
+	<path>D:\windows_v1.8.0\windows_v1.8.0\data\VOC2007\JPEGImages\21.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>55</xmin>
-			<ymin>475</ymin>
-			<xmax>1918</xmax>
-			<ymax>989</ymax>
+			<xmin>87</xmin>
+			<ymin>473</ymin>
+			<xmax>2110</xmax>
+			<ymax>731</ymax>
 		</bndbox>
 	</object>
 </annotation>

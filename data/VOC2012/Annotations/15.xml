@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>15.png</filename>
+	<path>D:\windows_v1.8.0\windows_v1.8.0\data\VOC2007\JPEGImages\15.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2339</width>
+		<height>1653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No-loss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>682</ymin>
+			<xmax>1764</xmax>
+			<ymax>1257</ymax>
+		</bndbox>
+	</object>
+</annotation>

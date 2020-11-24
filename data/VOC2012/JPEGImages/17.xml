@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>17.png</filename>
+	<path>D:\windows_v1.8.0\windows_v1.8.0\data\VOC2007\JPEGImages\17.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2200</width>
+		<height>1700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>202</ymin>
+			<xmax>2139</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>
